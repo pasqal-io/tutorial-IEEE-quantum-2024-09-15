@@ -1,5 +1,8 @@
-# CINECA/IFAB Practical Quantum Computing School 2021
-Pasqal's tutorials for the CINECA/IFAB Practical Quantum Computing School 2021.
+# IEEE Tutorial Session TUT06
+
+Pasqal's tutorials for the session titled: Pulse-level Programming of Neutral Atom Devices using Pulser. The notebooks are hands-on support to the PowerPoint presentations.
+
+Authors: Victor Drouin-Touchette, Hossein Sadeghi
 
 ## Installation
 
