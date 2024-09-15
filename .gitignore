@@ -4,3 +4,5 @@
 *.pyc
 # Ignore editor-specific files
 .vscode/
+
+/extras
